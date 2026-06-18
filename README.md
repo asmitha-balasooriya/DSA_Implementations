@@ -9,12 +9,12 @@ A comprehensive collection of **Data Structures** and **Sorting Algorithms** imp
 
 ## 📁 Projects Included
 
-### 1. Balanced & Complete Binary Search Trees (Assignment 3)
+### 1. Balanced & Complete Binary Search Trees 
 - Implemented algorithms to construct **Balanced BST** and **Complete BST** from an unsorted array.
 - Recursive sequence generation + BST insertion.
 - Time & Space complexity analysis (O(n) time for both).
 
-### 2. Enhanced Binary Search Tree Operations (Assignment 3)
+### 2. Enhanced Binary Search Tree Operations
 - Leaf & Non-leaf node identification
 - Count nodes in subtree
 - Depth of a node and subtree
@@ -39,6 +39,8 @@ A comprehensive collection of **Data Structures** and **Sorting Algorithms** imp
 - Recursion & Iterative approaches
 - matplotlib (for tree visualization)
 
+
+FULL IMPLEMENTATION, ANALYSIS AND OUTPUT REPORTS ARE INCLUDED
 ---
 
 ## 📂 Repository Structure
@@ -90,3 +92,5 @@ python src/avl/AVL_tree.py
 
 # 5. Run Sorting Analysis
 python src/sorting/main.py
+
+
