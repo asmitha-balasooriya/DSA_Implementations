@@ -1,0 +1,395 @@
+"""
+Python 3.10.0 (v3.10.0:b494f5935c, Oct  4 2021, 14:59:19) [Clang 12.0.5 (clang-1205.0.22.11)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=========== RESTART: /Users/asmithabalasooriya/Desktop/Q3_MainCode.py ==========
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 1
+
+Enter number of elements in the array : 10
+
+Unsorted Array with random generated values :  [230, -667, 310, 231, 154, 939, -172, 719, 926, -467]
+
+Sorted Array :  [-667, -467, -172, 154, 230, 231, 310, 719, 926, 939]
+
+The sorting algorithm you selected had 45 comparisons which took 0.00715 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 2
+
+Enter number of elements in the array : 12
+
+Unsorted Array with random generated values :  [-883, 520, -719, -244, 486, -46, 870, -335, 449, -651, 283, 811]
+
+Sorted Array :  [-883, -719, -651, -335, -244, -46, 283, 449, 486, 520, 811, 870]
+
+The sorting algorithm you selected had 37 comparisons which took 0.00596 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 3
+
+Enter number of elements in the array : 14
+
+Unsorted Array with random generated values :  [840, -63, -841, -371, 858, -701, 470, -469, 895, 107, 911, 312, 458, 457]
+
+Sorted Array :  [-841, -701, -469, -371, -63, 107, 312, 457, 458, 470, 840, 858, 895, 911]
+
+The sorting algorithm you selected had 38 comparisons which took 0.0157 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 4
+
+Enter number of elements in the array : 16
+
+Unsorted Array with random generated values :  [-506, -964, 468, 20, -445, 492, 847, 547, -746, 538, -30, -523, -262, 221, 822, -777]
+
+Sorted Array :  [-964, -777, -746, -523, -506, -445, -262, -30, 20, 221, 468, 492, 538, 547, 822, 847]
+
+The sorting algorithm you selected had 61 comparisons which took 0.0148 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 5
+
+Enter number of elements in the array : 18
+
+Unsorted Array with random generated values :  [-60, -269, 325, -247, -674, 784, 320, -426, -230, 420, 779, 782, 322, 729, 544, 174, 101, 934]
+
+Sorted Array :  [-674, -426, -269, -247, -230, -60, 101, 174, 320, 322, 325, 420, 544, 729, 779, 782, 784, 934]
+
+The sorting algorithm you selected had 97 comparisons which took 0.021 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 6
+
+Enter number of elements in the array : 20
+
+Unsorted Array with random generated values :  [-537, 834, -286, 587, 696, 393, 597, -729, 496, -818, -532, 142, -141, 211, -926, 202, 742, 506, 292, 442]
+
+Sorted Array :  [-926, -818, -729, -537, -532, -286, -141, 142, 202, 211, 292, 393, 442, 496, 506, 587, 597, 696, 742, 834]
+
+The sorting algorithm you selected had 380 comparisons which took 0.0288 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 7
+
+Enter number of elements in the array : 18
+
+Unsorted Array with random generated values :  [-807, -198, 503, -873, 78, -254, -775, 434, 409, -875, 1, -818, 381, -677, 414, 268, -252, 59]
+
+Sorted Array :  [-875, -873, -818, -807, -775, -677, -254, -252, -198, 1, 59, 78, 268, 381, 409, 414, 434, 503]
+
+The sorting algorithm you selected had 153 comparisons which took 0.0169 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 8
+
+Enter number of elements in the array : 16
+
+Unsorted Array with random generated values :  [-282, -196, -262, -152, 16, 213, -789, -751, -240, 284, 989, 763, -573, -272, -768, 876]
+
+Sorted Array :  [-789, -768, -751, -573, -282, -272, -262, -240, -196, -152, 16, 213, 284, 763, 876, 989]
+
+The sorting algorithm you selected had 210 comparisons which took 0.0191 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 9
+
+Enter number of elements in the array : -9
+Integers below 1 is not allowed. Please enter a positive integer
+Enter number of elements in the array : 14
+
+Unsorted Array with random generated values :  [-778, -230, 452, 352, -497, -825, 109, 560, 808, -272, -656, 841, -45, 108]
+
+Sorted Array :  [-825, -778, -656, -497, -272, -230, -45, 108, 109, 352, 452, 560, 808, 841]
+
+The sorting algorithm you selected had 81 comparisons which took 0.01 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 10
+
+Enter number of elements in the array : 12
+
+Unsorted Array with random generated values :  [-765, 511, -297, -785, 497, 466, -674, -529, -434, 544, -527, 99]
+
+Sorted Array :  [-785, -765, -674, -529, -527, -434, -297, 99, 466, 497, 511, 544]
+
+The sorting algorithm you selected had 65 comparisons which took 0.01 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 1
+
+1. Test selection sort algorithm
+2. Test insertion sort algorithm
+3. Test merge sort algorithm
+4. Test quick sort algorithm
+5. Test heap sort algorithm
+6. Test bubble sort algorithm
+7. Test Obs1-bubble sort algorithm
+8. Test Obs2-bubble sort algorithm
+9. Test Obs3-bubble sort algorithm
+10. Test Sink-down sort algorithm
+11. Test Bidirectional Bubble sort algorithm
+
+Enter choice : 11
+
+Enter number of elements in the array : 10
+
+Unsorted Array with random generated values :  [-153, 98, -842, -833, 913, -7, -854, -699, 785, 27]
+
+Sorted Array :  [-854, -842, -833, -699, -153, -7, 27, 98, 785, 913]
+
+The sorting algorithm you selected had 48 comparisons which took 0.00787 miliseconds
+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 2
+
+Enter number of elements in the array : 20
++-----------------------------------------------------------------------------+
+| Sorting Algorithm Name    | Array Size |  Num of Comparisons  | Run time/ms |
++-----------------------------------------------------------------------------+
+| Selection Sort            |     20     |         190          |   0.0141    |
++-----------------------------------------------------------------------------+
+| Insertion Sort            |     20     |         105          |    0.011    |
++-----------------------------------------------------------------------------+
+| Merge Sort                |     20     |          65          |   0.0222    |
++-----------------------------------------------------------------------------+
+| Quick Sort                |     20     |          63          |    0.011    |
++-----------------------------------------------------------------------------+
+| Heap Sort                 |     20     |         119          |   0.0241    |
++-----------------------------------------------------------------------------+
+| Bubble Sort               |     20     |         380          |   0.0303    |
++-----------------------------------------------------------------------------+
+| Obs1-Bubble Sort          |     20     |         190          |    0.021    |
++-----------------------------------------------------------------------------+
+| Obs2-Bubble Sort          |     20     |         304          |   0.0248    |
++-----------------------------------------------------------------------------+
+| Obs3-Bubble Sort          |     20     |         184          |   0.0191    |
++-----------------------------------------------------------------------------+
+| Sink Down Sort            |     20     |         380          |    0.031    |
++-----------------------------------------------------------------------------+
+| Bidirectional Sort        |     20     |         198          |   0.0188    |
++-----------------------------------------------------------------------------+
+
+  Menu
+--------------------
+1. Test an individual sorting algorithm
+2. Test multiple sorting algorithms
+3. Exit
+
+Enter choice : 3
+
+Program Terminated
+
+"""
