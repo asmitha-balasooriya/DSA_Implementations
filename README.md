@@ -41,9 +41,14 @@ A comprehensive collection of **Data Structures** and **Sorting Algorithms** imp
 
 
 FULL IMPLEMENTATION, ANALYSIS AND OUTPUT REPORTS ARE INCLUDED
+
+
 ---
 
+
 ## 📂 Repository Structure
+
+```bash
 .
 ├── outputs
 │   ├── Experimental_Study_Output.txt
@@ -70,8 +75,6 @@ FULL IMPLEMENTATION, ANALYSIS AND OUTPUT REPORTS ARE INCLUDED
         ├── Obs3_BubbleSort.py
         ├── SinkDownSort_Improved.py
         └── SinkDownSort.py
-
-
 ---
 
 ## 🚀 How to Run
